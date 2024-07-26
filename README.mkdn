@@ -1,3 +1,7 @@
+RootOs
+===========
+A Comunity Project for an OS which is community friendly :)
+
 LineageOS
 ===========
 
