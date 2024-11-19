@@ -1,6 +1,7 @@
 RootOs
 ===========
 A Comunity Project for an OS which is community friendly :)
+Zippi version (MAGISK module etc): https://github.com/Eltend/RootOS
 
 LineageOS
 ===========
